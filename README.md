@@ -1,4 +1,5 @@
 # EaglerFeather
+## Eaglercraft server with gui
 
 ### Java 17 is recommended for compiling to TeaVM
 
